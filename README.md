@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.pinimg.com/originals/e9/e0/7c/e9e07cd1308b531c59510f3dad4263aa.gif" alt="MasterHead "width="100" height="100" />
+  <img src="https://i.pinimg.com/originals/e9/e0/7c/e9e07cd1308b531c59510f3dad4263aa.gif" alt="MasterHead "width="200" height="300" />
 </p>
 <h1 align="center">Hi 👋, I'm Subham Bhattacharya</h1>
 <h3 align="center">🚀 Innovator | 🧠 AI & Blockchain Enthusiast | 🔐 Cybersecurity Advocate | 💡 Product Builder</h3>
