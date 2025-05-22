@@ -37,7 +37,7 @@
 
 ### 💡 About Me
 
-- 🎓 Student | Builder | Hackathon Winner (19+)
+- 🎓 Student | Builder | Hackathon Winner (2+)
 - 👨‍💻 Portfolio: [My Projects & Portfolio](https://portfolio-virid-eta-88.vercel.app/)
 - 💬 Ask me about **AI, Blockchain, Cybersecurity, or Startups**
 - 📫 Reach me at **subhampops2409@gmail.com**
